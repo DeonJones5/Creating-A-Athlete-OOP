@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef5fdf2f-e967-4416-b383-393d20d897ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/ChoosingVehicles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreatingAthletes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasketballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TrackStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseballPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasketballPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SoccerPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Athlete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BaseballPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BasketballPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SoccerPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TrackStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BaseballPlayerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BasketballPlayerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SoccerPlayerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/iterator/BrowseHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/iterator/BrowseHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/iterator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/Learning_Ish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/AddAllCollectionMeth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/AnotherFibonacciWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/CapitalizeFirstLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/FibonacciProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/Fill_Copy_Reverse_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/GenericClassesNMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/GenericReturnTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/MainCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/MainFactorialRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/MainHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/MainLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/MainQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/MainStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/Palindroms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/PractingAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/ReverseOrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/SearchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/SimpliestFibonacciSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Ish/src/main/java/SortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/Example/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/Example/ContactManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/fizzbuzz/FizzBuzzConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/Example/ActualFizzBuzzAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/Example/ContactManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/Example/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/ExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/Example/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/Example/ContactManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/fizzbuzz/FizzBuzzConvertor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/ExampleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicles/Vehicles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicles/Vehicles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicles/src/main/java/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicles/src/main/java/Cars.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ooof27023u4929rBAGgL20qGQP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CreatingAthletes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CreatingAthletes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreatingAthletes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseballPlayerTest.shouldCreateBaseballPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreatingAthletes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseballPlayerTest" />
+      <option name="METHOD_NAME" value="shouldCreateBaseballPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasketballPlayerTest.shouldCreateBasketballPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreatingAthletes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasketballPlayerTest" />
+      <option name="METHOD_NAME" value="shouldCreateBasketballPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoccerPlayerTest.shouldCreateSoccerPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreatingAthletes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SoccerPlayerTest" />
+      <option name="METHOD_NAME" value="shouldCreateSoccerPlayerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in CreatingAthletes" />
+        <item itemvalue="JUnit.SoccerPlayerTest.shouldCreateSoccerPlayerTest" />
+        <item itemvalue="JUnit.BaseballPlayerTest.shouldCreateBaseballPlayer" />
+        <item itemvalue="JUnit.BasketballPlayerTest.shouldCreateBasketballPlayer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef5fdf2f-e967-4416-b383-393d20d897ad" name="Default Changelist" comment="" />
+      <created>1613962409113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613962409113</updated>
+      <workItem from="1613962410571" duration="7924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
